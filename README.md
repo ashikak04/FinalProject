@@ -10,4 +10,4 @@ Your points will accumulate at the top left of the screen.
 Earn 15 points and you win!
 
 
-Created with help from this YouTube tutorial: https://www.youtube.com/watch?v=UIlzIwqmOYE&t=97s
+Created with help from this YouTube tutorial: https://youtu.be/UIlzIwqmOYE
